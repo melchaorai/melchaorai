@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @melchaorai
 - 👀 I’m interested in ... basic programming
-- 🌱 I’m currently learning ... python101
+- 🌱 I’m currently learning ... python101,..
+                                  HTML,CSS >>>Soon
+
 
 <!---
 melchaorai/melchaorai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
